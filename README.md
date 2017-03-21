@@ -8,3 +8,5 @@ Ah well, I'm an old fogey that's stuck on command line interfaces. :-)
 
 
 This is the official bug fix for my test bug!  Will the issue tracker show me this sha?
+Fixes #6
+

@@ -7,6 +7,5 @@ And my idea of a fine gui for me (since I only want tree visualization) is git l
 Ah well, I'm an old fogey that's stuck on command line interfaces. :-)
 
 
-This is the official bug fix for my test bug!  Will the issue tracker show me this sha?
-Fixes #6
+This is the official bug fix for my test bug!  Will the issue tracker show me this sha?  Yes, if you type the proper comments in the commit message!!!!
 
